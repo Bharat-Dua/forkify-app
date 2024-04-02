@@ -8,7 +8,7 @@ import bookmarksView from './views/bookmarksView.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import { async } from 'regenerator-runtime';
-import addRecipeView from './Views/addRecipeView.js';
+import addRecipeView from './views/addRecipeView.js';
 
 const controlRecipes = async function () {
   try {
